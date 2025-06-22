@@ -11,6 +11,10 @@ Built with speed, clarity, and dev productivity in mind.
 
 ## What is BoilerKit?
 
+![UI Image](./public/images/bk-one.png)
+![UI Image](./public/images/bk-two.png)
+
+
 BoilerKit is a lightweight, no-setup VS Code extension that lets you quickly scaffold files by typing simple triggers like:
 
 ```txt

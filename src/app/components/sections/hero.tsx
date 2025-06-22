@@ -3,7 +3,7 @@ import { Download, Zap } from "lucide-react";
 
 export function Hero() {
   return (
-    <section className="relative z-30 py-20 px-2 text-center flex items-center -mb-35 lg:-mb-35">
+    <section className="relative z-30 py-16 px-2 text-center flex items-center -mb-35 lg:-mb-35">
       <div className="container mx-auto max-w-6xl px-2 ">
         <div className="mb-8 flex justify-center">
           <div className="inline-flex items-center gap-2 py-2 px-3 sm:px-4 text-xs sm:text-sm rounded-full shadow-lg backdrop-blur-md transition-all duration-300 border bg-black/40 border-white/20 text-white hover:bg-black/50 font-semibold cursor-pointer">

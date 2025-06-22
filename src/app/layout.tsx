@@ -21,6 +21,7 @@ export const metadata: Metadata = {
     "boilerplate code, code snippets, VS Code extension, developer tools, productivity, C++ boilerplate, JavaScript snippet, Tailwind snippets, React boilerplate, web dev tools, frontend snippets, backend snippets, coding faster, vscode snippets",
   icons: {
     icon: "/favicon.svg",
+    shortcut: "/favicon.ico",
   },
   openGraph: {
     title: "BoilerKit – Instantly Insert Boilerplate Code for 30+ Languages",

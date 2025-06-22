@@ -23,7 +23,9 @@ export default function Footer() {
             <ul className="space-y-2">
               <li>
                 <a
-                  href="#"
+                  href="https://x.com/meghtrix"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors text-sm"
                 >
                   X
@@ -31,7 +33,9 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="https://www.linkedin.com/in/Megh-bari-2b0700314/"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors text-sm"
                 >
                   LinkedIn
@@ -39,7 +43,9 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="https://github.com/meghb/boilerkit"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors text-sm"
                 >
                   GitHub
@@ -72,7 +78,7 @@ export default function Footer() {
           <p className="text-gray-400 flex items-center justify-center gap-2 flex-wrap text-sm">
             Built by{" "}
             <a
-              href="https://github.com/meghb"
+              href="https://github.com/megh-bari"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-400 text-white font-semibold transition-colors"
@@ -81,7 +87,7 @@ export default function Footer() {
             </a>
             <span>•</span>
             <a
-              href="https://github.com/meghb/boilerkit"
+              href="https://github.com/megh-bari/boilerkit"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-400 text-white  flex items-center gap-1 font-semibold transition-colors"

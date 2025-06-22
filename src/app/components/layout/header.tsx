@@ -77,7 +77,7 @@ export function Header() {
             asChild
           >
             <a
-              href="https://github.com/meghb/boilerkit"
+              href="https://github.com/megh-bari/boilerkit"
               target="_blank"
               rel="noopener noreferrer"
             >

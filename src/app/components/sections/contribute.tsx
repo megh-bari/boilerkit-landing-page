@@ -35,7 +35,7 @@ export function Contribute() {
             asChild
           >
             <a
-              href="https://github.com/meghb/boilerkit#Contribute"
+              href="https://github.com/megh-bari/boilerkit#Contributing"
               target="_blank"
             >
               <Github className="h-5 w-5 mr-2" />

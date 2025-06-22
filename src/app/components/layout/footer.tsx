@@ -43,7 +43,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://github.com/meghb/boilerkit"
+                  href="https://github.com/megh-bari"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white transition-colors text-sm"
@@ -60,7 +60,7 @@ export default function Footer() {
             <ul className="space-y-2 mb-6">
               <li>
                 <a
-                  href="vscode:extension/meghb.boilerkit"
+                  href="vscode:extension/megh.BoilerKit"
                   className="text-gray-400 hover:text-white transition-colors text-sm"
                 >
                   VS Code
